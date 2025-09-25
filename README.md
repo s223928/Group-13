@@ -1,14 +1,13 @@
 # BIManalyst group 13 
 
 ### Focus Area 
-
-#### Indoor Environment 
+Indoor Environment 
 
 ### Claim 
-The claim we are checking for the first assignment is the ammount of storeys within the building model no. 16. Through our "discovery" phase of the ifcopenshell library we decided to examine whole building claims within the report. Specifically for this assignment we will be checking the ammount of storeys within the building. Our scope is to cross-check whether the data within the ifc Architecture model corresponds to the project report. 
+For the first assignment, we are checking the claim regarding the number of stories in building model no. 16, as the report 25-16-D-ARCH states that it should contain five floors above ground and one underground.
 
 ### Supporting Evidence 
-The floor plans and building levels supporting this claim are presented in the **Architectural Project Report, pages 5–7.**
+The floor plans and building levels supporting this claim are presented in the **Architectural Project Report, 25-16-D-ARCH, pages 5–7.**
 
 ### Method
 
@@ -57,4 +56,4 @@ else:
 
 ### Interpeting Results
 
-Our script indicates **two underground** in the IFC model, whereas the report describes one. A likely explanation, especially for a Revit-authored model, is that two closed spaced Levels (i.e. top of slab and bottom slab, ~300 mm apart) were both exported as IfcBuildingStorey. This is a common setup for coordination and does not imply an incorrect design; it may simply reflect how levels were defined and mapped during export. The reason we picked this claim is because this distintion of storeys could matter for downstream work. Analyses that groupd data by storey, such as areas and volumes which are asssociated indoor environment analysis, could include the extra level and slightly skew the results. 
+Our script indicates **two underground** in the IFC model, whereas the report describes one. A likely explanation, especially for a Revit-authored model, is that two closed spaced Levels (i.e. top of slab and bottom slab, ~300 mm apart) were both exported as IfcBuildingStorey. This is a common setup for coordination and does not imply an incorrect design; it may simply reflect how levels were defined and mapped during export. The reason we picked this claim is because this distintion of storeys could matter for downstream work. Analyses that grouped data by storey, such as areas and volumes which are asssociated indoor environment analysis, could include the extra level and slightly skew the results. 
