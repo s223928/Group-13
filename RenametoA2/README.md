@@ -77,37 +77,37 @@ When uses the `ifcOpenShell` reads  the ARCH and MEP models, extracting room and
 
 ### A2f) Information requirementRoom area
 #### **Room area:**
--Source: ARCH model
--IFC: IfcSpace (area or geometry)
--In model:  yes
--Retrieval with ifcOpenShell: yes (get area property or calculate from geometry)
+- Source: ARCH model
+- IFC: IfcSpace (area or geometry)
+- In model:  yes
+- Retrieval with ifcOpenShell: yes (get area property or calculate from geometry)
 
 #### **Room height:**
--Source: ARCH model
--IFC: IfcSpace (height )
--In model: yes
--Retrieval with ifcOpenShell: yes (extract from geometry or property)
+- Source: ARCH model
+- IFC: IfcSpace (height )
+- In model: yes
+- Retrieval with ifcOpenShell: yes (extract from geometry or property)
 
 #### **Room use:**
 
--Source: ARCH model 
--IFC: IfcSpace 
--In model: υes
--Retrieval with ifcOpenShell: yes 
+- Source: ARCH model 
+- IFC: IfcSpace 
+- In model: υes
+- Retrieval with ifcOpenShell: yes 
 
 #### **Provided airflow:**
 
--Source: ARCH and MEP model
--IFC: IfcFlowTerminal 
--In model: yes 
--Retrieval with ifcOpenShell: yes (identify terminals )
+- Source: ARCH and MEP model
+- IFC: IfcFlowTerminal 
+- In model: yes 
+- Retrieval with ifcOpenShell: yes (identify terminals )
 
 #### **Reference ventilation rates:**
 
--Source: external file (DS/EN 16798-1:2019 based on occupancy and activity levels)
--IFC: no
--In model: no
--Retrieval with ifcOpenShell: no (load from external data)
+- Source: external file (DS/EN 16798-1:2019 based on occupancy and activity levels)
+- IFC: no
+- In model: no
+- Retrieval with ifcOpenShell: no (load from external data)
 
 #### **What we need to learn:**
 
