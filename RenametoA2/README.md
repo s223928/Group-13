@@ -115,6 +115,15 @@ When uses the `ifcOpenShell` reads  the ARCH and MEP models, extracting room and
 - How to match ARCH (using name or geometric position)
 - How to load external data and apply them to calculations
 
+### A2g) Software licence
+
+We will use the **MIT License** for our project
+
+#### **Why we choose MIT License:**
+- MIT is simple
+- Allows others to use, modify and distribute our code
+- Encourages collaboration 
+- Follows the OpenBIM concept
 
 
 
