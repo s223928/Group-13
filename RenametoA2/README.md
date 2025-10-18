@@ -50,6 +50,71 @@ During the design phase, before the construction phase begins — ideally as par
 #### BIM purpose:
 Analyse (with some aspects of Generate and Communicate): The tool analyses BIM model data to verify compliance with environmental performance standards.
 
+### A2d) Scope the Use Case
+The new script tool in Python is needed more to the automated data extraction and comparison between the ARCH and MEP models.  
+**The script will:**
+1. Open IFC models (ARCH and MEP) 
+2. Take the area, height and occupancy data from the ARC
+3. Any additional data required for ventilation will be ecxtracted from the MEP ifcentities and psets
+4. Calculates the required air flow according to the standard
+5. Compares what is required with what is provided
+6. Creates a report with compliance status
+
+### A2e) Tool idea 
+#### **Description:**
+A Ventilation Check will be Python OpenBIM tool that automatically calculates the  ventilation compliance checking the IFC models.  
+When uses the `ifcOpenShell` reads  the ARCH and MEP models, extracting room and ventilation data. Then compares design values due to the requirements. The outcomes are:
+- required air flow
+- supplied air flow
+- compliance status (Pass / Fail)
+- Deviation (%)
+
+#### **Business and Societal Value:**
+- Helps designers identify problems before the construction
+- Ensures better air quality for building users
+- Reduces energy waste from excessive ventilation
+- Reusable for future projects
+
+### A2f) Information requirementRoom area
+#### **Room area:**
+-Source: ARCH model
+-IFC: IfcSpace (area or geometry)
+-In model:  yes
+-Retrieval with ifcOpenShell: yes (get area property or calculate from geometry)
+
+#### **Room height:**
+-Source: ARCH model
+-IFC: IfcSpace (height )
+-In model: yes
+-Retrieval with ifcOpenShell: yes (extract from geometry or property)
+
+#### **Room use:**
+
+-Source: ARCH model 
+-IFC: IfcSpace 
+-In model: υes
+-Retrieval with ifcOpenShell: yes 
+
+#### **Provided airflow:**
+
+-Source: ARCH and MEP model
+-IFC: IfcFlowTerminal 
+-In model: yes 
+-Retrieval with ifcOpenShell: yes (identify terminals )
+
+#### **Reference ventilation rates:**
+
+-Source: external file (DS/EN 16798-1:2019 based on occupancy and activity levels)
+-IFC: no
+-In model: no
+-Retrieval with ifcOpenShell: no (load from external data)
+
+#### **What we need to learn:**
+
+- How to read IfcSpace and property sets with ifcOpenShell
+- How to match ARCH (using name or geometric position)
+- How to load external data and apply them to calculations
+
 
 
 
