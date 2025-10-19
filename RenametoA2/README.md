@@ -3,7 +3,7 @@
 
 ### A2a) Python knowledge
 **How much do you agree with the following statement:**
-*I am confident in coding with python*
+*I am confident in coding with Python*
 
 Score: 1 - Disagree 
 (We are still developing our Python skills but are learning and improving through this project).
@@ -50,57 +50,46 @@ During the design phase, before the construction phase begins — ideally as par
 #### BIM purpose:
 Analyse (with some aspects of Generate and Communicate): The tool analyses BIM model data to verify compliance with environmental performance standards.
 
-### A2d) Scope the Use Case
-The new script tool in Python is needed more to the automated data extraction and comparison between the ARCH and MEP models.  
-**The script will:**
-1. Open IFC models (ARCH and MEP) 
-2. Take the area, height and occupancy data from the ARC
-3. Any additional data required for ventilation will be ecxtracted from the MEP ifcentities and psets
-4. Calculates the required air flow according to the standard
-5. Compares what is required with what is provided
-6. Creates a report with compliance status
 
 ### A2e) Tool idea 
 #### **Description:**
-A Ventilation Check will be Python OpenBIM tool that automatically calculates the  ventilation compliance checking the IFC models.  
-When uses the `ifcOpenShell` reads  the ARCH and MEP models, extracting room and ventilation data. Then compares design values due to the requirements. The outcomes are:
-- required air flow
-- supplied air flow
-- compliance status (Pass / Fail)
+**Ventilation Check** will be a Python-based OpenBIM tool that automatically performs ventilation compliance checks using IFC models.
+It uses ifcOpenShell to read the ARCH and MEP models, extract room and ventilation data, and then compare design values against the requirements. The outcomes are:
+- Minimum DS/EN 16798-1:2019 thresholds for our building
+- Required air flow
+- Ventilation data in compliance with BR18
+- Compliance status (Pass / Fail), when data is available
 - Deviation (%)
 
 #### **Business and Societal Value:**
-- Helps designers identify problems before the construction
-- Ensures better air quality for building users
-- Reduces energy waste from excessive ventilation
-- Reusable for future projects
+This tool will streamline the process of informing MEP designers about the required ventilation rate thresholds for each room in accordance with local regulations and standards such as DS/EN 16798-1:2019. It automates the entire compliance check by using the BIM model itself as the primary source of information for calculating and verifying the required airflow rates. Because it is based on open standards and developed in Python, the tool can be easily adapted and reused for future projects, promoting knowledge sharing, interoperability, and continuous improvement within the OpenBIM community.
 
 ### A2f) Information requirementRoom area
 #### **Room area:**
 - Source: ARCH model
 - IFC: IfcSpace (area or geometry)
-- In model:  yes
-- Retrieval with ifcOpenShell: yes (get area property or calculate from geometry)
+- In model:  Yes
+- Retrieval with ifcOpenShell: Yes 
 
 #### **Room height:**
 - Source: ARCH model
 - IFC: IfcSpace (height )
-- In model: yes
-- Retrieval with ifcOpenShell: yes (extract from geometry or property)
+- In model: Yes
+- Retrieval with ifcOpenShell: Yes 
 
 #### **Room use:**
 
 - Source: ARCH model 
 - IFC: IfcSpace 
-- In model: υes
-- Retrieval with ifcOpenShell: yes 
+- In model: Yes
+- Retrieval with ifcOpenShell: Yes 
 
 #### **Provided airflow:**
 
-- Source: ARCH and MEP model
-- IFC: IfcFlowTerminal 
-- In model: yes 
-- Retrieval with ifcOpenShell: yes (identify terminals )
+- Source: MEP model
+- IFC: IfcUnitaryEquipment, IfcDuctSegment, IfcAirTerminal
+- In model: Yes 
+- Retrieval with ifcOpenShell: Yes (provided correct and sufficient data is available)
 
 #### **Reference ventilation rates:**
 
@@ -112,18 +101,12 @@ When uses the `ifcOpenShell` reads  the ARCH and MEP models, extracting room and
 #### **What we need to learn:**
 
 - How to read IfcSpace and property sets with ifcOpenShell
-- How to match ARCH (using name or geometric position)
+- How to extract and collect relevant data to input in the formulas for calculations.
 - How to load external data and apply them to calculations
 
 ### A2g) Software licence
 
-We will use the **MIT License** for our project
-
-#### **Why we choose MIT License:**
-- MIT is simple
-- Allows others to use, modify and distribute our code
-- Encourages collaboration 
-- Follows the OpenBIM concept
+We have chosen to release our project under the **MIT License**. This licence is simple and widely used, allowing others to freely use, modify, and distribute our code with minimal restrictions. By doing so, we encourage collaboration and reuse, enabling other students, researchers, and professionals to build upon our work.
 
 
 
