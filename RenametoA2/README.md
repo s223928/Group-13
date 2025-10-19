@@ -73,7 +73,7 @@ This tool will streamline the process of informing MEP designers about the requi
 
 #### **Room height:**
 - Source: ARCH model
-- IFC: IfcSpace (height )
+- IFC: IfcSpace (height)
 - In model: Yes
 - Retrieval with ifcOpenShell: Yes 
 
