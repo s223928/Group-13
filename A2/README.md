@@ -57,7 +57,6 @@ Analyse (with some aspects of Generate and Communicate): The tool analyses BIM m
 It uses ifcOpenShell to read the ARCH and MEP models, extract room and ventilation data, and then compare design values against the requirements. The outcomes are:
 - Minimum DS/EN 16798-1:2019 thresholds for our building
 - Required air flow
-- Ventilation data in compliance with BR18
 - Compliance status (Pass / Fail), when data is available
 - Deviation (%)
 
