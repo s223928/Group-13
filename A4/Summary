@@ -1,0 +1,4 @@
+# Summary
+Title: Calculation of ventilation rate 
+Category: Indoor & Energy
+Description: By reading information directly from an IFC model, the tool extracts each space’s area, occupancy and calculates the required ventilation rates accordingly.
