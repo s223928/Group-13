@@ -1,5 +1,4 @@
 # About the tool
-
 Our tool automates the verification of minimum ventilation requirements for building spaces based on Danish BR18 legislation and indoor climate categories. By reading information directly from an IFC model using IfcOpenShell, the tool extracts each space’s area, occupancy and calculates the required ventilation rates accordingly.
 
 # Problem
