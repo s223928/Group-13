@@ -16,6 +16,15 @@ To get the full benefit of what I’ve learned, I still need to improve my gener
 **How you might use OpenBIM in the future:**
 The course presentations gave me a lot of inspiration for how OpenBIM can be used, and it was fascinating to see how versatile it is. I plan to use it to streamline my workflow in early design stages, where models change constantly and manual work becomes inefficient. I also see strong potential for applying it in ventilation, heat balance, and daylight calculations, where you often need to handle large amounts of simple geometry and repetitive computations. Automating these processes through OpenBIM will make my work faster, more flexible, and more consistent.
 
+Dimitris: 
+**Identify your own level at the beginning of this course and where you ended:**
+At the start of the course, I would describe my level as just a BIM modeller with only basic Python knowledge, I knew the core structures of the language, but nothing advanced. By the end, I was able to extract data from IFC models, work confidently with ifcopenshell and understand code directly related to OpenBIM.
+
+**What else do you still need to learn?**
+Sky is the limit of what there is still left to learn. We only scratched the surface of what coding can do to complement BIM models. I still want to strengthen my programming skills in general, but also dive deeper into the geometric side of ifcopenshell. Proper bounding-box handling and geometric queries seem essential, especially for complex models where geometry becomes the fallback to map or interpret elements correctly.
+
+**How you might use OpenBIM in the future:**
+Digital Twins are  the direction I would like to explore. I want to understand how we can take OpenBIM models and layer additional information onto them to create a “living” representation of a building throughout its lifecycle. 
 
 # Your process of developing the tutorial
 - Did the process of the course enable you to answer or define questions that you might need later for thesis?
@@ -30,8 +39,16 @@ Line:
 **Was the number of tools for the course okay? Should we have more or less? If so, which ones?**
         I dont understand the question.
 
+Dimitris: 
+**Did the process of the course enable you to answer or define questions you might need later for your thesis?**
+Yes. The course helped a lot, especially because all the material was available from the beginning. I also really enjoyed working with GitHub. It was my first time using it, and I will absolutely keep using it in future projects.
+If anything, I would have appreciated a slightly more structured introduction in the early weeks, perhaps a set of small, guided exercises on basic data extraction before diving into self-directed exploration of the ifcopenshell library. That would have helped build confidence faster.
 
+**Would you have preferred less choice in the use cases?**
+I think the level of freedom in choosing use cases was fine. It allowed each of us to explore something closer to our own skills and interests. Even though our initial use-case turned out to be quite ambitious, it was easy to switch, refine, or scale it according to what was realistic within our time and coding abilities.
 
+**Was the number of tools for the course okay? Should we have more or less? If so, which ones?**
+I think the number of tools for the purposes that this course is trying to achieve was sufficient.
 
 # (As a group) summary of the feedback you received on your tutorial
 
