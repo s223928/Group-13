@@ -34,7 +34,7 @@ At the start of the course, I had no experience with programming at all and I di
 I still need a lot of practice to feel fully confident coding on my own. I want to get better at handling more complex data and automating tasks efficiently. I would also like to learn ifcopenshell more deeply, so I can use all its features and work faster with IFC models. Improving my Python skills will help me make more advanced scripts and handle bigger challenges in BIM.
 
 **How you might use OpenBIM in the future:**
-I’m really interested in the indoor environment of a building, like how air quality, lighting, and temperature affect comfort.In the future, I would like to explore how OpenBIM can help me work with these aspects in a general way, analyzing and optimizing indoor conditions for comfort and efficiency. This would help design houses or apartments that are more comfortable and energy-efficient. 
+I’m really interested in the indoor environment of a building, like how air quality, lighting, and temperature affect comfort.In the future, I would like to explore how OpenBIM can help me work with these aspects in a general way, analyzing and optimizing indoor conditions for comfort and efficiency. This would help design houses or apartments that are more comfortable and energy-efficient. One idea I find exciting is creating small evaluation tools that compare different design options early in the process, so you can quickly see which layout provides better comfort or energy performance without doing everything manually.
 
 # Your process of developing the tutorial
 - Did the process of the course enable you to answer or define questions that you might need later for thesis?
