@@ -114,6 +114,12 @@ Probably yes. If my thesis involves any form of smart building research, Digital
 **Are you likely to use OpenBIM tools in your professional life in the next 10 years?**
 Also yes, as discussed during the course, these tools are expected to gain  momentum and gradually become an integrated part of architectural, MEP, and structural design processes. Learning them now feels like a strong long-term investment.
 
+## Nikoletta: 
+**Are you likely to use OpenBIM tools in your thesis?**
+Yes, I think there is a big chance that I will use OpenBIM tools in my thesis. The course showed me how useful IFC data can be for analyzing buildings and testing ideas without doing everything manually. If my thesis ends up focusing on topics like indoor environment, energy performance, or any kind of design evaluation, then OpenBIM tools could help me organize data, run checks, and automate parts of the process.
+**Are you likely to use OpenBIM tools in your professional life in the next 10 years?**
+Yes, I believe so. OpenBIM tools are becoming more important in the industry, and the ability to work with data directly from IFC models will be useful in many areas. Whether it’s for design checks, automation, coordination, or evaluating building conditions, I can see OpenBIM making everyday workflows much faster and more reliable. Even if the exact tasks change in the future, having these skills will definitely be an advantage.
+
 
 
 # (Individual) Wrap up
