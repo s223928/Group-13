@@ -8,7 +8,7 @@ Your delivery should tie together A3-A5 - And from a users/readers point of view
 - What else do you still need to learn?
 - how you might use OpenBIM in the future?
 
-Line: 
+## Line: 
 **Identify your own level at the beginning of this course and where you ended:**
 At the beginning of the course, I hadn’t even opened VS Code before. I had no practical coding experience, and concepts like data extraction or using IFC commands were completely new to me. Now I can navigate code confidently, pull data from models, and work with a library of IFC commands. I also understand how these tools can be applied in practice, which has significantly increased my technical foundation.
 **What else do you still need to learn?**
@@ -16,7 +16,7 @@ To get the full benefit of what I’ve learned, I still need to improve my gener
 **How you might use OpenBIM in the future:**
 The course presentations gave me a lot of inspiration for how OpenBIM can be used, and it was fascinating to see how versatile it is. I plan to use it to streamline my workflow in early design stages, where models change constantly and manual work becomes inefficient. I also see strong potential for applying it in ventilation, heat balance, and daylight calculations, where you often need to handle large amounts of simple geometry and repetitive computations. Automating these processes through OpenBIM will make my work faster, more flexible, and more consistent.
 
-Dimitris: 
+## Dimitris: 
 **Identify your own level at the beginning of this course and where you ended:**
 At the start of the course, I would describe my level as just a BIM modeller with only basic Python knowledge, I knew the core structures of the language, but nothing advanced. By the end, I was able to extract data from IFC models, work confidently with ifcopenshell and understand code directly related to OpenBIM.
 
@@ -31,7 +31,7 @@ Digital Twins are  the direction I would like to explore. I want to understand h
 - Would you have preferred to have been given less choice in the use cases?
 - Was the number of tools for the course ok - should we have more or less? - if so which ones would you leave out?
 
-Line:
+## Line:
 **Did the process of the course enable you to answer or define questions you might need later for your thesis?**
         Yes. The process helped me understand how to frame the right questions and identify what I need to investigate further, especially regarding data handling, automation, and how BIM tools can support early-stage design.
 **Would you have preferred less choice in the use cases?**
@@ -39,7 +39,7 @@ Line:
 **Was the number of tools for the course okay? Should we have more or less? If so, which ones?**
         I dont understand the question.
 
-Dimitris: 
+## Dimitris: 
 **Did the process of the course enable you to answer or define questions you might need later for your thesis?**
 Yes. The course helped a lot, especially because all the material was available from the beginning. I also really enjoyed working with GitHub. It was my first time using it, and I will absolutely keep using it in future projects.
 If anything, I would have appreciated a slightly more structured introduction in the early weeks, perhaps a set of small, guided exercises on basic data extraction before diving into self-directed exploration of the ifcopenshell library. That would have helped build confidence faster.
@@ -86,8 +86,11 @@ I am very likely to use OpenBIM tools in my thesis. I find them extremely versat
 **Are you likely to use OpenBIM tools in your professional life in the next 10 years?**
 Yes. I plan to use OpenBIM regularly, as it streamlines workflows, automates repetitive tasks, and supports design and quality control. In roles like project manager or graphic communicator, these tools will be essential as the industry moves toward open, transparent data.
 
-
-
+## Dimitris: 
+**Are you likely to use OpenBIM tools in your thesis?**
+Probably yes. If my thesis involves any form of smart building research, Digital Twins or data-driven design, I expect that OpenBIM tools will play a role in my workflow.
+**Are you likely to use OpenBIM tools in your professional life in the next 10 years?**
+Also yes, as discussed during the course, these tools are expected to gain  momentum and gradually become an integrated part of architectural, MEP, and structural design processes. Learning them now feels like a strong long-term investment.
 
 
 
@@ -104,3 +107,11 @@ Yes. I plan to use OpenBIM regularly, as it streamlines workflows, automates rep
         My main criticisms of the course are the room, which was unsuitable for lectures and presentations, and the assignment descriptions. While we received a lot of information, it was sometimes difficult to clearly identify the exact deliverables.
 
 
+## Dimitris:
+        The assignments were overall pretty straightforward, although the learning curve was quite steep if you were unfamiliar with coding. In general, I really enjoyed the process. A1 and A2 were especially informative, starting with an initial case in A1 that helped set the mindset for what was coming later in the course.
+
+        In A2, updating or selecting a more complex claim and developing a business diagram was also very interesting, as this was the first time we really started thinking about tool creation and software development in a more structured way. At that stage, we were still unsure how well our claim would match our coding skills, and this required much more research into the ifcopenshell library—understanding what information we could extract, how different models behave, and what was realistically achievable.
+
+        A3 and A4 demanded continuous research to become familiar with the tools and the library, followed by a lot of testing to see whether we could approach our claim in a way that would produce accurate results and useful output for users. This was a very informative phase, as it clearly showed how much adaptation is needed during tool development. We constantly had to adjust our approach to stay within our current technical skills while still aiming to produce something meaningful.
+
+        In general, the journey through A1–A5 helped me better understand OpenBIM and ifcopenshell and also how digital tools are developed through iteration, testing, and refinement. It was a clear shift from simply using BIM tools to actively thinking about how they can be extended and customized through coding.
