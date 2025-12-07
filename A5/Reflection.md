@@ -60,6 +60,18 @@ I think the level of freedom in choosing use cases was fine. It allowed each of 
 **Was the number of tools for the course okay? Should we have more or less? If so, which ones?**
 I think the number of tools for the purposes that this course is trying to achieve was sufficient.
 
+### Nikoletta:
+**Did the process of the course enable you to answer or define questions you might need later for your thesis?**
+Yes, the course definitely helped me understand what kind of questions I should ask when working with BIM data and coding. It made me think more clearly about how to structure a problem and what information I actually need to look at. I feel that this will be useful later for my thesis, especially if it involves analysis, automation, or using IFC models in any way.
+
+**Would you have preferred less choice in the use cases?**
+The freedom we had was both good and difficult at the same time. In the beginning, it was challenging because we didn’t always know what to do or how to move forward, especially since we were still getting used to the tools. We often got stuck or reached dead ends when trying to choose a direction for our project. But in the end, this process helped us learn a lot. It pushed us to explore, search for solutions, and try different ideas until we found something that actually worked. Even though it was sometimes frustrating, it was also very productive for our learning.
+
+**Was the number of tools for the course okay? Should we have more or less? If so, which ones?**
+I think the number of tools was fine. It felt balanced, not too many and not too few. I don’t think anything specific needs to be removed. What would help even more is having a bit more guidance or examples at the beginning, just so we can understand how to use the tools more confidently before experimenting on our own.
+
+
+
 # (As a group) summary of the feedback you received on your tutorial
 
 - did the tool address the use case you identified?
