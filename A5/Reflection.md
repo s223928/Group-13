@@ -154,4 +154,4 @@ A2 was a bit more challenging. We had to develop a business diagram for the next
 
 A3 and A4 were definitely the most demanding sections. We spent a lot of time on trial and error. Even though we had a main plan, we often ran into problems, sometimes things didn’t work as expected, sometimes the window heights were off, and we frequently changed ideas. We also had issues with the bounding box, so we kept testing different approaches. In the end, after many attempts, we managed to create something we were proud of, but it really required patience and effort.
 
-Overall, the whole process taught us a lot. Even though some parts were quite tough and the difficulty could have been more evenly spread from A1 to A5. We learned new tools and new ways of thinking.
+Overall, the whole process taught us a lot. Even though some parts were quite tough and the difficulty could have been more evenly spread from A1 to A5, we learned new tools and new ways of thinking. At the same time, we felt that together with the freedom we had, a bit more guidance would have helped us feel more confident about the next steps.
