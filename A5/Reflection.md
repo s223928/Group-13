@@ -146,7 +146,7 @@ In general, the journey through A1–A5 helped me better understand OpenBIM and 
 
 ### Nikoletta:
 
-Looking back at the whole journey from A1 to A5, I think it was a very interesting and meaningful process. The structure of the assignments helped us learn step by step, even though sometimes the difficulty didn’t feel evenly balanced. Still, by the end, everything came together in a way that really made us learn.
+Looking back at the whole journey from A1 to A5, I think it was a very interesting and meaningful process. The structure of the assignments helped us learn step by step, and even though we faced several difficulties along the way, we managed to overcome them. Still, by the end, everything came together in a way that really made us learn.
 
 A1 was a simple and smooth introduction. It didn’t take much time, but it was a good starting point and helped us understand the basic idea of what was coming next.
 
@@ -154,4 +154,4 @@ A2 was a bit more challenging. We had to develop a business diagram for the next
 
 A3 and A4 were definitely the most demanding sections. We spent a lot of time on trial and error. Even though we had a main plan, we often ran into problems, sometimes things didn’t work as expected, sometimes the window heights were off, and we frequently changed ideas. We also had issues with the bounding box, so we kept testing different approaches. In the end, after many attempts, we managed to create something we were proud of, but it really required patience and effort.
 
-Overall, the whole process taught us a lot. Even though some parts were tough and the difficulty could have been a bit more balanced, the journey was worth it. We learned new tools amd new ways of thinking.
+Overall, the whole process taught us a lot. Even though some parts were quite tough and the difficulty could have been more evenly spread from A1 to A5. We learned new tools and new ways of thinking.
