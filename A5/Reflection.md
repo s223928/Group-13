@@ -143,3 +143,15 @@ In A2, updating or selecting a more complex claim and developing a business diag
 A3 and A4 demanded continuous research to become familiar with the tools and the library, followed by a lot of testing to see whether we could approach our claim in a way that would produce accurate results and useful output for users. This was a very informative phase, as it clearly showed how much adaptation is needed during tool development. We constantly had to adjust our approach to stay within our current technical skills while still aiming to produce something meaningful.
 
 In general, the journey through A1–A5 helped me better understand OpenBIM and ifcopenshell and also how digital tools are developed through iteration, testing and refinement. It was a clear shift from simply using BIM tools to actively thinking about how they can be extended and customized through coding.
+
+### Nikoletta:
+
+Looking back at the whole journey from A1 to A5, I think it was a very interesting and meaningful process. The structure of the assignments helped us learn step by step, even though sometimes the difficulty didn’t feel evenly balanced. Still, by the end, everything came together in a way that really made us learn.
+
+A1 was a simple and smooth introduction. It didn’t take much time, but it was a good starting point and helped us understand the basic idea of what was coming next.
+
+A2 was a bit more challenging. We had to develop a business diagram for the next parts of the project, and the difficult part was not the time needed but the uncertainty. Since we didn’t know yet what would work later or what direction our project would take, it was hard to define something solid. It took us some time to build a framework that could give us enough flexibility for the following steps.
+
+A3 and A4 were definitely the most demanding sections. We spent a lot of time on trial and error. Even though we had a main plan, we often ran into problems, sometimes things didn’t work as expected, sometimes the window heights were off, and we frequently changed ideas. We also had issues with the bounding box, so we kept testing different approaches. In the end, after many attempts, we managed to create something we were proud of, but it really required patience and effort.
+
+Overall, the whole process taught us a lot. Even though some parts were tough and the difficulty could have been a bit more balanced, the journey was worth it. We learned new tools amd new ways of thinking.
