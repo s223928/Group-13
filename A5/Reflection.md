@@ -26,6 +26,16 @@ Sky is the limit of what there is still left to learn. We only scratched the sur
 **How you might use OpenBIM in the future:**
 Digital Twins are  the direction I would like to explore. I want to understand how we can take OpenBIM models and layer additional information onto them to create a “living” representation of a building throughout its lifecycle. 
 
+Nikoletta:
+**Identify your own level at the beginning of this course and where you ended:**
+At the start of the course, I had no experience with programming at all and I didn’t know how code could interact with BIM models. Everything felt completely new and a bit confusing. Now, I can write scripts, extract data from IFC models, and understand how OpenBIM tools work in practice. I feel more confident exploring code, trying commands, and thinking about how these tools can help in real projects.
+
+**What else do you still need to learn?**
+I still need a lot of practice to feel fully confident coding on my own. I want to get better at handling more complex data and automating tasks efficiently. I would also like to learn ifcopenshell more deeply, so I can use all its features and work faster with IFC models. Improving my Python skills will help me make more advanced scripts and handle bigger challenges in BIM.
+
+**How you might use OpenBIM in the future:**
+I’m really interested in the indoor environment of a building, like how air quality, lighting, and temperature affect comfort.In the future, I would like to explore how OpenBIM can help me work with these aspects in a general way, analyzing and optimizing indoor conditions for comfort and efficiency. This would help design houses or apartments that are more comfortable and energy-efficient. I also see potential in combining OpenBIM with sensors and real-time data to create models that update continuously, so the building’s indoor environment can be monitored and improved over time.
+
 # Your process of developing the tutorial
 - Did the process of the course enable you to answer or define questions that you might need later for thesis?
 - Would you have preferred to have been given less choice in the use cases?
