@@ -26,7 +26,7 @@ Sky is the limit of what there is still left to learn. We only scratched the sur
 **How you might use OpenBIM in the future:**
 Digital Twins are  the direction I would like to explore. I want to understand how we can take OpenBIM models and layer additional information onto them to create a “living” representation of a building throughout its lifecycle. 
 
-Nikoletta:
+### Nikoletta:
 **Identify your own level at the beginning of this course and where you ended:**
 At the start of the course, I had no experience with programming at all and I didn’t know how code could interact with BIM models. Everything felt completely new and a bit confusing. Now, I can write scripts, extract data from IFC models, and understand how OpenBIM tools work in practice. I feel more confident exploring code, trying commands, and thinking about how these tools can help in real projects.
 
